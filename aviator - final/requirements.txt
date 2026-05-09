@@ -1,6 +1,7 @@
 streamlit
 pandas
-scikit-learn
 numpy
-playwright
-nest_asyncio
+scikit-learn
+joblib
+matplotlib
+seaborn
